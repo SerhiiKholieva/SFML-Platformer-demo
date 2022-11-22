@@ -1,0 +1,8 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Enemy.png" transparentColor="">
+ <animation title="run" delay="150">
+  <cut w="204" x="88" y="76" h="248" row="1" col="1"/>
+  <cut w="204" x="88" y="76" h="248" row="1" col="1"/>
+  <cut w="204" x="88" y="76" h="248" row="1" col="1"/>
+ </animation>
+</sprites>

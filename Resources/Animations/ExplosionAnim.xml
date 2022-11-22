@@ -1,0 +1,21 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Explosion.png" transparentColor="">
+ <animation title="explosion" delay="150">
+  <cut w="230" x="17" y="35" h="190" row="1" col="1"/>
+  <cut w="193" x="279" y="49" h="149" row="1" col="1"/>
+  <cut w="188" x="525" y="39" h="146" row="1" col="1"/>
+  <cut w="201" x="777" y="33" h="158" row="1" col="1"/>
+  <cut w="178" x="24" y="299" h="151" row="1" col="1"/>
+  <cut w="183" x="283" y="286" h="164" row="1" col="1"/>
+  <cut w="180" x="533" y="290" h="153" row="1" col="1"/>
+  <cut w="171" x="798" y="285" h="158" row="1" col="1"/>
+  <cut w="150" x="32" y="552" h="143" row="1" col="1"/>
+  <cut w="163" x="285" y="553" h="139" row="1" col="1"/>
+  <cut w="149" x="541" y="560" h="123" row="1" col="1"/>
+  <cut w="133" x="807" y="563" h="120" row="1" col="1"/>
+  <cut w="134" x="40" y="827" h="114" row="1" col="1"/>
+  <cut w="138" x="295" y="838" h="96" row="1" col="1"/>
+  <cut w="129" x="551" y="833" h="100" row="1" col="1"/>
+  <cut w="127" x="807" y="842" h="84" row="1" col="1"/>
+ </animation>
+</sprites>
